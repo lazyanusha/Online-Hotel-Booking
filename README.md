@@ -55,23 +55,20 @@ Hotel-Booking-System/
 
 ## 📸 Screenshots
 
-Add screenshots of:
+### Booking Page
 
-- Home Page
-- Hotel Listing
-- Filter by Location
-- Featured & Popular Hotels
-- Booking Page
-- Booking Confirmation
+![Booking Page](screenshots/bookingform.png)
+
+### Admin Dashboard Page
+
+![Admin Dashboard Page](screenshots/admindashboard.png)
 
 Example:
 
 ```
 screenshots/
-├── home.png
-├── hotels.png
-├── booking.png
-└── confirmation.png
+├── bookingform.png
+└── admindashboard.png
 ```
 
 ---
@@ -119,11 +116,8 @@ http://localhost/hotel-booking-system
 
 ## 💡 Future Enhancements
 
-- Online payment integration
 - Hotel reviews and ratings
 - Email booking confirmation
-- Admin dashboard
-- Booking history
 - Search by price range
 - Wishlist functionality
 
@@ -133,7 +127,7 @@ http://localhost/hotel-booking-system
 
 **Anusha Shrestha**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/lazyanusha
 
 ---
 
